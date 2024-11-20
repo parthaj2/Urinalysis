@@ -1,0 +1,30 @@
+{
+    "name": "arduino-urinalysis-system",
+    "version": "1.0.0",
+    "description": "A React-based urinalysis management system integrated with Arduino for patient data collection.",
+    "main": "app.js",
+    "scripts": {
+      "start": "vite",
+      "build": "vite build",
+      "dev": "vite"
+    },
+    "dependencies": {
+      "@headlessui/react": "^1.7.15",
+      "@tailwindcss/forms": "^0.5.3",
+      "@vitejs/plugin-react": "^4.0.0",
+      "lucide-react": "^0.243.0",
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+      "autoprefixer": "^10.4.7",
+      "postcss": "^8.4.14",
+      "tailwindcss": "^3.1.8",
+      "vite": "^4.5.0"
+    },
+    "keywords": ["arduino", "react", "urinalysis", "healthcare", "iot"],
+    "author": "Your Name",
+    "license": "MIT",
+    "type": "module"
+  }
+  
